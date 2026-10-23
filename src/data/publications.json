@@ -1,0 +1,65 @@
+[
+  {
+    "title": "The Ego-Allocentric Dialogue: World-Centred Grounded 3D Reasoning via Persistent Primitives",
+    "authors": "G. Blandano, A. D'Amelio, R. Lanzarotti",
+    "venue": "ECCV 2026 Workshop",
+    "short": "ECCV W",
+    "year": 2026,
+    "type": "Workshop",
+    "status": "Accepted",
+    "note": "See you in Malmö 🎉",
+    "image": "groundsplat.png",
+    "url": null
+  },
+  {
+    "title": "No Pose, No Problem: SE(3)-Equivariant Facial Landmark Detection on 3D Data",
+    "authors": "G. Blandano, A. D'Amelio, G. Facchi, O. Ghezzi, R. Lanzarotti",
+    "venue": "WACV 2027",
+    "short": "WACV",
+    "year": 2027,
+    "type": "Conference",
+    "status": "Accepted",
+    "image": "se3_3dfl.png",
+    "url": null
+  },
+  {
+    "title": "2S-SGCN: A Two-Stage Stratified Graph Convolutional Network for Facial Landmark Detection on 3D Data",
+    "authors": "J. Burger, G. Blandano, G. M. Facchi, R. Lanzarotti",
+    "venue": "Computer Vision and Image Understanding, Vol. 250, 2025 (Elsevier)",
+    "short": "CVIU",
+    "year": 2025,
+    "type": "Journal",
+    "image": "2s_sgcn.png",
+    "url": "https://doi.org/10.1016/j.cviu.2024.104227"
+  },
+  {
+    "title": "Enhancing 3D Face Analysis Using Graph Convolutional Networks with Kernel-Attentive Filters",
+    "authors": "F. Agnelli, O. Ghezzi, G. Blandano, J. Burger, G. Facchi, L. Schmid",
+    "venue": "ACM SAC 2025, Catania, Italy",
+    "short": "SAC",
+    "year": 2025,
+    "type": "Conference",
+    "image": "ka_gcn.png",
+    "url": "https://doi.org/10.1145/3672608.3707910"
+  },
+  {
+    "title": "EEG-Based Mental Stress Detection: A Comparative and Explainable Study Across Tasks and Subjects",
+    "authors": "F. Agnelli, G. Blandano, J. Burger, A. D'Amelio, G. Facchi, O. Ghezzi, R. Lanzarotti, L. Schmid",
+    "venue": "Springer, 2025",
+    "short": "LNCS",
+    "year": 2025,
+    "type": "Book Chapter",
+    "image": "eeg_stress.png",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-032-11317-7_2"
+  },
+  {
+    "title": "Gender Classification via Graph Convolutional Networks on 3D Facial Models",
+    "authors": "G. Blandano, J. Burger, A. Cappella, C. Dolci, G. M. Facchi, F. Pedersini, C. Sforza, G. M. Tartaglia",
+    "venue": "ACM SAC 2024, Avila, Spain",
+    "short": "SAC",
+    "year": 2024,
+    "type": "Conference",
+    "image": "gender_classification.png",
+    "url": "https://doi.org/10.1145/3605098.3636039"
+  }
+]
